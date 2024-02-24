@@ -1,0 +1,1 @@
+This project is final course project of Mathematics for Artificial Intelligence - Fall 2023
